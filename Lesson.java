@@ -3,7 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 public class Lesson {
 
-     // Крестики-нолики
+     // Крестики-нолики игра
         private static char[][] tiles;
         private static final int SIZE = 3;
         private static final int ACTION_SUM = SIZE * SIZE;
